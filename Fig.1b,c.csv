@@ -1,0 +1,65 @@
+﻿Sample,Novel 16s miTags (%),Group,Water Depth (m),NCBI bioproject,Reference
+MC02(8-10cmbsf),23.2%,Slope,5400,PRJNA635214,This study (public available)
+MC02(28-30cmbsf),25.0%,Slope,5400,PRJNA635214,This study (public available)
+D1T1(0-2cmbsf),18.1%,Slope,5533,PRJNA635214,This study (public available)
+D1T1(4-6cmbsf),19.7%,Slope,5533,PRJNA635214,This study (public available)
+D1T2(4-6cmbsf),17.6%,Slope,5533,PRJNA635214,This study (public available)
+D1T2(24-26cmbsf),22.2%,Slope,5533,PRJNA635214,This study (public available)
+T1B5(0-2cmbsf),16.6%,Slope,7061,PRJNA635214,This study (public available)
+T1B5(8-10cmbsf),17.9%,Slope,7061,PRJNA635214,This study (public available)
+T1B5(28-30cmbsf),24.2%,Slope,7082,PRJNA635214,This study (public available)
+T1B5(38-40cmbsf),24.6%,Slope,7082,PRJNA635214,This study (public available)
+T1B3R1(0-3cmbsf),16.3%,Slope,7082,PRJNA635214,This study (public available)
+T1B3R2(0-3cmbsf),20.2%,Slope,7082,PRJNA635214,This study (public available)
+T1B8(2-4cmbsf),16.6%,Slope,7143,PRJNA635214,This study (public available)
+T1B8(16-18cmbsf),18.0%,Slope,7143,PRJNA635214,This study (public available)
+T1L6T1(0-3cmbsf),19.5%,Slope,7850,PRJNA635214,This study (public available)
+T1L6T2(0-3cmbsf),14.9%,Slope,7850,PRJNA635214,This study (public available)
+T1B10(0-2cmbsf),26.6%,Slope,8638,PRJNA635214,This study (public available)
+T1B10(36-38cmbsf),28.6%,Slope,8638,PRJNA635214,This study (public available)
+T1B10(44-46cmbsf),33.0%,Slope,8638,PRJNA635214,This study (public available)
+T1B11(0-3cmbsf),33.3%,Slope,9150,PRJNA635214,This study (public available)
+T1L10(0-3cmbsf),25.3%,Bottom-axis,10900,PRJNA635214,This study (public available)
+T1L10(6-9cmbsf),32.4%,Bottom-axis,10900,PRJNA635214,This study (public available)
+T1L10(12-15cmbsf),38.1%,Bottom-axis,10900,PRJNA635214,This study (public available)
+T1L10(18-21cmbsf),35.4%,Bottom-axis,10900,PRJNA635214,This study (public available)
+T3L11(0-3cmbsf),30.8%,Bottom-axis,10908,PRJNA635214,This study (public available)
+T3L11(6-9cmbsf),29.8%,Bottom-axis,10908,PRJNA635214,This study (public available)
+T3L11(12-15cmbsf),30.5%,Bottom-axis,10908,PRJNA635214,This study (public available)
+T3L11(18-21cmbsf),35.0%,Bottom-axis,10908,PRJNA635214,This study (public available)
+T3L8(0-3cmbsf),27.1%,Bottom-axis,10909,PRJNA635214,This study (public available)
+T3L8(6-9cmbsf),27.5%,Bottom-axis,10909,PRJNA635214,This study (public available)
+T3L8(12-15cmbsf),23.4%,Bottom-axis,10909,PRJNA635214,This study (public available)
+T3L8(18-21cmbsf),47.4%,Bottom-axis,10909,PRJNA635214,This study (public available)
+T3L14(0-2cmbsf),29.2%,Bottom-axis,10911,PRJNA635214,This study (public available)
+T3L14(4-6cmbsf),26.8%,Bottom-axis,10911,PRJNA635214,This study (public available)
+T3L14(6-8cmbsf),32.0%,Bottom-axis,10911,PRJNA635214,This study (public available)
+T3L14(12-14cmbsf),33.7%,Bottom-axis,10911,PRJNA635214,This study (public available)
+T3L14(18-20cmbsf),21.3%,Bottom-axis,10911,PRJNA635214,This study (public available)
+SRR17063097,10.3%,Mariana Water,5086,PRJNA784435,doi:10.1111/1462-2920.14759
+SRR17063096,10.2%,Mariana Water,6886,PRJNA784435,doi:10.1111/1462-2920.14759
+SRR17063095,12.0%,Mariana Water,7126,PRJNA784435,doi:10.1111/1462-2920.14759
+SRR17063094,16.2%,Mariana Water,8152,PRJNA784435,doi:10.1111/1462-2920.14759
+SRR17063093,12.4%,Mariana Water,10893,PRJNA784435,doi:10.1111/1462-2920.14759
+SRR17063092,12.9%,Mariana Water,10908,PRJNA784435,doi:10.1111/1462-2920.14759
+SRR17063091,12.6%,Mariana Water,10911,PRJNA784435,doi:10.1111/1462-2920.14759
+ERR3341263,12.6%,Deep-sea sediment (cold seep/Gulf of Mexico),3092,PRJEB32776,doi.org/10.1128/mBio.01814-19
+ERR3341266,13.2%,Deep-sea sediment (cold seep/Gulf of Mexico),2925,PRJEB32776,doi.org/10.1128/mBio.01814-19
+ERR3341267,15.2%,Deep-sea sediment (cold seep/Gulf of Mexico),2925,PRJEB32776,doi.org/10.1128/mBio.01814-19
+SRR5560800,15.7%,Deep-sea sediment (hydrothermal vent/South Atlantic Mid-Ocean Ridge),2770,PRJNA385762,doi.org/10.1128/mSystems.00795-19
+SRR5560801,17.7%,Deep-sea sediment (hydrothermal vent/South Atlantic Mid-Ocean Ridge),2730,PRJNA385762,doi.org/10.1128/mSystems.00795-19
+SRR6301444,17.2%,Deep-sea sediment (hydrothermal vent/Guaymas Basin),2000,PRJNA362212,doi.org/10.1038/s41467-018-07418-0
+SRR6301445,20.2%,Deep-sea sediment (hydrothermal vent/Guaymas Basin),2000,PRJNA362212,doi.org/10.1038/s41467-018-07418-0
+SRR6301446,23.8%,Deep-sea sediment (hydrothermal vent/Guaymas Basin),2000,PRJNA362212,doi.org/10.1038/s41467-018-07418-0
+SRR6301447,29.2%,Deep-sea sediment (hydrothermal vent/Guaymas Basin),2000,PRJNA362212,doi.org/10.1038/s41467-018-07418-0
+SRR7716469,19.3%,Deep-sea sediment (cold seep/Gulf of Mexico),2800,PRJNA485648,doi.org/10.1038/s41467-019-09747-0
+SRR7716470,17.0%,Deep-sea sediment (cold seep/Gulf of Mexico),3200,PRJNA485648,doi.org/10.1038/s41467-019-09747-0
+SRR7716471,24.0%,Deep-sea sediment (cold seep/Gulf of Mexico),3000,PRJNA485648,doi.org/10.1038/s41467-019-09747-0
+SRR17063064(MT1-1),11.8%,Deep-sea sediment (Mariana Trench),3250,PRJNA784430,Public available data in NCBI (author:Yong Wang)
+SRR17063063(MT1-3),10.8%,Deep-sea sediment (Mariana Trench),3250,PRJNA784430,Public available data in NCBI (author:Yong Wang)
+SRR17063062(MT2-1),12.5%,Deep-sea sediment (Mariana Trench),3373,PRJNA784430,Public available data in NCBI (author:Yong Wang)
+SRR17063061(MT3-1),9.2%,Deep-sea sediment (Mariana Trench),3279,PRJNA784430,Public available data in NCBI (author:Yong Wang)
+SRR17063068(MT5-1),13.5%,Deep-sea sediment (Mariana Trench),3510,PRJNA784430,Public available data in NCBI (author:Yong Wang)
+SRR17063067(MT6-1),14.6%,Deep-sea sediment (Mariana Trench),3249,PRJNA784430,Public available data in NCBI (author:Yong Wang)
+SRR17063066(SCS4-1),9.4%,Deep-sea sediment (South China Sea),1500,PRJNA784430,Public available data in NCBI (author:Yong Wang)
+SRR17063065(SCS5-1),14.1%,Deep-sea sediment (South China Sea),1390,PRJNA784430,Public available data in NCBI (author:Yong Wang)

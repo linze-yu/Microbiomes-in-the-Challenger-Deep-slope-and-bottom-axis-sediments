@@ -1,0 +1,124 @@
+﻿Site,cmbsf,Nitrate(μM),Ammonium (μM),Oxygen(μM),Position in trech,Position,Depth (m),group
+MF,1,34.1,,,slope,,5183 ,Nitrate
+MF,3.5,34.2,,,slope,,5183 ,Nitrate
+MF,7.5,34.9,,,slope,,5183 ,Nitrate
+MF,17.5,35.5,,,slope,,5183 ,Nitrate
+MC02,1,31.06,,,slope,,5400 ,Nitrate
+MC02,9,30.58,,,slope,,5400 ,Nitrate
+MC02,15,31.07,,,slope,,5400 ,Nitrate
+MC02,33,26.8,,,slope,,5400 ,Nitrate
+MD,1,34.2,,,slope,,6067 ,Nitrate
+MD,3.5,34.5,,,slope,,6067 ,Nitrate
+MD,7.5,35.2,,,slope,,6067 ,Nitrate
+MD,17.5,35.7,,,slope,,6067 ,Nitrate
+T1B5,1,33.28,,,slope,,7061 ,Nitrate
+T1B5,9,33.08,,,slope,,7061 ,Nitrate
+T1B5,29,29.41,,,slope,,7061 ,Nitrate
+T1B5,39,28.43,,,slope,,7061 ,Nitrate
+T1B5,59,24.83,,,slope,,7061 ,Nitrate
+T1B8,3,29.59,,,slope,,7143 ,Nitrate
+T1B8,11,28.27,,,slope,,7143 ,Nitrate
+T1B8,31,26.1,,,slope,,7143 ,Nitrate
+T1B8,57,22.2,,,slope,,7143 ,Nitrate
+T1B10,1,30.41,,,slope,,8638 ,Nitrate
+T1B10,15,30.94,,,slope,,8638 ,Nitrate
+T1B10,37,28.73,,,slope,,8638 ,Nitrate
+T1B10,59,25.16,,,slope,,8638 ,Nitrate
+T3L8,1.5,14.29,,,bottom-axis,,10909 ,Nitrate
+T3L8,7.5,6.79,,,bottom-axis,,10909 ,Nitrate
+T3L8,11.5,5.36,,,bottom-axis,,10909 ,Nitrate
+T3L8,13.5,3.93,,,bottom-axis,,10909 ,Nitrate
+T3L8,22.5,3.46,,,bottom-axis,,10909 ,Nitrate
+T3L11,1.5,33,,,bottom-axis,,10908 ,Nitrate
+T3L11,7.5,13.21,,,bottom-axis,,10908 ,Nitrate
+T3L11,10.5,8.91,,,bottom-axis,,10908 ,Nitrate
+T3L14,1,16.68,,,bottom-axis,,10911 ,Nitrate
+T3L14,9,14.91,,,bottom-axis,,10911 ,Nitrate
+T3L14,13,12.36,,,bottom-axis,,10911 ,Nitrate
+T3L14,15,11.11,,,bottom-axis,,10911 ,Nitrate
+T3L14,19,6.21,,,bottom-axis,,10911 ,Nitrate
+T3L14,21,1.35,,,bottom-axis,,10911 ,Nitrate
+MC-1,1,33,,,bottom-axis,,10901 ,Nitrate
+MC-1,7.5,28.6,,,bottom-axis,,10901 ,Nitrate
+MC-1,12.5,23.9,,,bottom-axis,,10901 ,Nitrate
+MC-1,22.5,10.5,,,bottom-axis,,10901 ,Nitrate
+MC-1,27,5.8,,,bottom-axis,,10901 ,Nitrate
+MC-2,1,33.1,,,bottom-axis,,10902 ,Nitrate
+MC-2,5,30.1,,,bottom-axis,,10902 ,Nitrate
+MC-2,11,24.5,,,bottom-axis,,10902 ,Nitrate
+MC-2,21,13.1,,,bottom-axis,,10902 ,Nitrate
+MC-2,32.5,0.6,,,bottom-axis,,10902 ,Nitrate
+MC-2,42,0,,,bottom-axis,,10902 ,Nitrate
+MF,1,,1,,,slope,5183,Ammonium
+MF,3.5,,0.5,,,slope,5183,Ammonium
+MF,7.5,,0.5,,,slope,5183,Ammonium
+MF,17.5,,0.5,,,slope,5183,Ammonium
+MC02,1,,1.97,,,slope,5400,Ammonium
+MC02,9,,1.34,,,slope,5400,Ammonium
+MC02,15,,1.34,,,slope,5400,Ammonium
+MC02,33,,1.34,,,slope,5400,Ammonium
+MD,1,,0.8,,,slope,6067,Ammonium
+MD,3.5,,0.6,,,slope,6067,Ammonium
+MD,7.5,,0.7,,,slope,6067,Ammonium
+MD,17.5,,0.5,,,slope,6067,Ammonium
+T1B5,1,,2.32,,,slope,7061,Ammonium
+T1B5,9,,0.99,,,slope,7061,Ammonium
+T1B5,29,,1.69,,,slope,7061,Ammonium
+T1B5,39,,1.56,,,slope,7061,Ammonium
+T1B5,59,,0.83,,,slope,7061,Ammonium
+T1B8,3,,0.29,,,slope,7143,Ammonium
+T1B8,11,,0.8,,,slope,7143,Ammonium
+T1B8,31,,0.74,,,slope,7143,Ammonium
+T1B8,57,,0.21,,,slope,7143,Ammonium
+T1B10,1,,3.58,,,slope,8638,Ammonium
+T1B10,15,,3.15,,,slope,8638,Ammonium
+T1B10,37,,3.41,,,slope,8638,Ammonium
+T1B10,59,,2.03,,,slope,8638,Ammonium
+T3L8,1.5,,1.93,,,bottom-axis,10909,Ammonium
+T3L8,7.5,,2.29,,,bottom-axis,10909,Ammonium
+T3L8,11.5,,2.57,,,bottom-axis,10909,Ammonium
+T3L8,13.5,,2.71,,,bottom-axis,10909,Ammonium
+T3L8,22.5,,18.36,,,bottom-axis,10909,Ammonium
+T3L11,7.5,,2.71,,,bottom-axis,10908,Ammonium
+T3L11,10.5,,1.66,,,bottom-axis,10908,Ammonium
+T3L11,16.5,,2.93,,,bottom-axis,10908,Ammonium
+T3L14,1,,6.32,,,bottom-axis,10911,Ammonium
+T3L14,9,,5.49,,,bottom-axis,10911,Ammonium
+T3L14,13,,3.36,,,bottom-axis,10911,Ammonium
+T3L14,15,,3.11,,,bottom-axis,10911,Ammonium
+T3L14,17,,4.18,,,bottom-axis,10911,Ammonium
+T3L14,19,,8.86,,,bottom-axis,10911,Ammonium
+T3L14,21,,9.84,,,bottom-axis,10901,Ammonium
+MC-1,1,,1.2,,,bottom-axis,10901,Ammonium
+MC-1,7.5,,0.5,,,bottom-axis,10901,Ammonium
+MC-1,12.5,,0.5,,,bottom-axis,10901,Ammonium
+MC-1,22.5,,1.8,,,bottom-axis,10901,Ammonium
+MC-1,27,,0.6,,,bottom-axis,10902,Ammonium
+MC-2,1,,0.8,,,bottom-axis,10902,Ammonium
+MC-2,5,,0.8,,,bottom-axis,10902,Ammonium
+MC-2,11,,0.5,,,bottom-axis,10902,Ammonium
+MC-2,21,,0.5,,,bottom-axis,10902,Ammonium
+MC-2,32.5,,2.6,,,bottom-axis,10902,Ammonium
+MC-2,42,,13.2,,,bottom-axis,10902,Ammonium
+MF,1,,,134,,slope,"5,183",Oxygen
+MF,3.5,,,130,,slope,"5,183",Oxygen
+MF,7.5,,,128,,slope,"5,183",Oxygen
+MF,17.5,,,119,,slope,"5,183",Oxygen
+MC02,1,,,155.21,,slope,"5,400",Oxygen
+MC02,9,,,139.81,,slope,"5,400",Oxygen
+MC02,15,,,132.69,,slope,"5,400",Oxygen
+MC02,33,,,153.54,,slope,"5,400",Oxygen
+MD,1,,,136,,slope,6067,Oxygen
+MD,3.5,,,133,,slope,6067,Oxygen
+MD,7.5,,,127,,slope,6067,Oxygen
+MD,17.5,,,120,,slope,6067,Oxygen
+MC-1,1,,,152,,bottom-axis,"10,901",Oxygen
+MC-1,7.5,,,98,,bottom-axis,"10,901",Oxygen
+MC-1,12.5,,,71,,bottom-axis,"10,901",Oxygen
+MC-1,22.5,,,33,,bottom-axis,"10,901",Oxygen
+MC-1,27,,,14,,bottom-axis,"10,901",Oxygen
+MC-2,5,,,117,,bottom-axis,"10,902",Oxygen
+MC-2,11,,,68,,bottom-axis,"10,902",Oxygen
+MC-2,21,,,29,,bottom-axis,"10,902",Oxygen
+MC-2,32.5,,,1,,bottom-axis,"10,902",Oxygen
+MC-2,42,,,1,,bottom-axis,"10,902",Oxygen
